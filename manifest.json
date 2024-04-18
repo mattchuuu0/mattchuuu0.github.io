@@ -1,0 +1,13 @@
+{"name": "Matt",
+"shortname": "Matt",
+"start_url": ".",
+"display": "standalone",
+"theme_color": "red",
+"background_color": "blue",
+"description": "any",
+"icons": [
+    {
+        
+    }
+]
+}
