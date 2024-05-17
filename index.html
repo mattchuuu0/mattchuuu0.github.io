@@ -49,6 +49,12 @@
         <a href="#" class="download-btn">Download Now</a>
         <p>Available on the App Store and Google Play</p>
     </div>
+
+    <script>
+        if("serviceWorker" in navigator){
+            navigator.serviceWorker.register("serviceworker.js");
+        }
+    </script>
     </body>
     
 </html>
